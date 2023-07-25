@@ -1,0 +1,51 @@
+.flex {
+    display: flex;
+}
+
+.row {
+    flex-direction: row;
+}
+
+.column {
+    flex-direction: column;
+}
+
+.jc-sp-btwn {
+    justify-content: space-between;
+}
+
+.jc-sp-ard {
+    justify-content: space-around;
+}
+
+.m-0 {
+    margin: 0;
+}
+
+.m-20 {
+    margin: 20px;
+}
+
+.m-auto {
+    margin: auto;
+}
+
+.w-25 {
+    width: 25%;
+}
+
+.w-50 {
+    width: 50%;
+}
+
+.w-75 {
+    width: 75%;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+.ai-center {
+    align-items: center;
+}
